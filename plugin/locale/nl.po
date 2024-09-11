@@ -1,127 +1,126 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-05 13:25+0100\n"
-"PO-Revision-Date: 2017-04-25 21:54+0100\n"
+"POT-Creation-Date: 2015-05-25 20:25+0100\n"
+"PO-Revision-Date: 2017-04-25 21:53+0100\n"
 "Last-Translator: smokey\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Allways save :"
-msgstr "Screenshot immer speichern :"
+msgstr "Altijd opslaan :"
 
 msgid "Default"
-msgstr "Standard"
+msgstr "Default"
 
 msgid "Enable ShootYourScreen :"
-msgstr "Aktiviere ShootYourScreen :"
+msgstr "Activeer ShootYourScreen :"
 
 msgid "Exit"
-msgstr "Beenden"
+msgstr "Exit"
 
 msgid "Format for screenshots :"
-msgstr "Bildformat der Screenshots :"
+msgstr "Screenshot formaat :"
 
 msgid "Grabbing Screenshot failed !!!"
-msgstr "Die Erzeugung des Screenshots ist fehlgeschlagen"
+msgstr "Screenshot is mislukt !!!"
 
 msgid "Path for screenshots :"
-msgstr "Pfad für die Screenshots :"
+msgstr "Opslag plaats voor screenshots :"
 
 msgid "Picture size (width) :"
-msgstr "Bildgröße (Breite) :"
+msgstr "Foto grootte (breedte) :"
 
 msgid "Quality of jpg picture :"
-msgstr "Qualität der jpg Bilder :"
+msgstr "Kwaliteit van de jpg foto :"
 
 msgid "Really close without saving settings?"
-msgstr "Wollen Sie wirklich ohne speichern beenden ?"
+msgstr "Afsluiten zonder opslaan ?"
 
 msgid "Reset ShootYourScreen settings to defaults?"
-msgstr "Sollen die Standardeinstellungen übernommen werden ?"
+msgstr "Reset ShootYourScreen settings naar standaard waardes ?"
 
 msgid "Save"
-msgstr "Speichern"
+msgstr "Opslaan"
 
 msgid "Save with RECORD-Button"
-msgstr "Speichern mit der Aufnahmetaste"
+msgstr "Opslaan met de Opname (REC) Toets"
 
 msgid "Screenshot of :"
-msgstr "Screenshot von :"
+msgstr "Screenshot van :"
 
 msgid ""
 "Screenshot successfully saved as:\n"
 "%s"
 msgstr ""
-"Screenshot gespeichert als:\n"
+"Screenshot  met success opgeslagen als:\n"
 "%s"
 
 msgid "Select a button to take a screenshot :"
-msgstr "Taste wählen om einen screenshot zu machen :"
+msgstr "Kies een toets om een screenshot te maken :"
 
 msgid "ShootYourScreen for Enigma2 STB - %s"
-msgstr "ShootYourScreen für Enigma2 STB - %s"
+msgstr "ShootYourScreen voor Enigma2 STB - %s"
 
 msgid "Show on screen :"
-msgstr "Screenshot am Bildschirm anzeigen :"
+msgstr "Toon op het scherm :"
 
 msgid "Skin resolution"
-msgstr "Skin Auflösung"
+msgstr "Skin resolutie"
 
 msgid ""
 "Sorry, your device for screenshots is not writeable.\n"
 "\n"
 "Please choose another one."
 msgstr ""
-"Entschuldigung, aber Ihr Speicherort für die\n"
-"Screenshots ist nicht beschreibbar\n"
+"Sorry, de opslag lokatie voor screenshots is niet beschrijfbaar.\n"
 "\n"
-"Bitte wählen Sie einen anderen Speicherort."
+"Kies een andere opslag lokatie."
 
 msgid "Use the ' "
-msgstr "Verwenden Sie taste ' "
+msgstr "Gebruik toets ' "
 
 msgid " ' button instead of ' "
-msgstr " ' statt ' "
+msgstr " ' in plaats van ' "
 
 msgid " long ' :"
 msgstr " lang ' :"
 
 msgid "Only button ' "
-msgstr "Nur taste ' "
+msgstr "Alleen toets ' "
 
 msgid " long ' can be used."
-msgstr " lang ' kann verwendet werden."
+msgstr " lang ' kan gebruikt worden."
 
 msgid "Timeout for info message :"
-msgstr "Anzeigedauer der Infonachricht :"
+msgstr "Timeout voor info bericht :"
 
 msgid "make Screenshots with your Enigma2 STB"
-msgstr "erstelle Screenshots mit Deiner Enigma2 Kiste"
+msgstr "maak Screenshots met uw Enigma2 Ontvanger"
 
 msgid "no message"
-msgstr "keine Nachricht"
+msgstr "geen bericht"
 
 msgid "no timeout"
-msgstr "kein Timeout"
+msgstr "geen Timeout"
 
 msgid "Red"
-msgstr "Rot"
+msgstr "Rood"
 
 msgid "Green"
-msgstr "Grün"
+msgstr "Groen"
 
 msgid "Yellow"
-msgstr "Gelb"
+msgstr "Geel"
 
 msgid "Blue"
-msgstr "Blau"
+msgstr "Blauw"
 
 msgid "Mute"
-msgstr "Stumm"
+msgstr "Mute"
 
 msgid "EPG"
 msgstr "EPG"
@@ -145,4 +144,4 @@ msgid "Radio"
 msgstr "Radio"
 
 msgid "Version:"
-msgstr "Version:"
+msgstr "Versie:"

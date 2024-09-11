@@ -3,104 +3,146 @@ msgstr ""
 "Project-Id-Version: shoot your screen Persian Translation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-09-11 09:10+0100\n"
-"PO-Revision-Date: 2012-07-24 00:51+0330\n"
-"Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
+"PO-Revision-Date: 2017-04-25 21:55+0100\n"
+"Last-Translator: \n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
-"Language: \n"
+"Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-Language: Persian\n"
-"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
 "X-Poedit-SearchPath-0: ../src\n"
 
-#: ../src/plugin.py:37
+msgid "Allways save :"
+msgstr "Allways save :"
+
+msgid "Default"
+msgstr "پیش فرض"
+
+msgid "Enable ShootYourScreen :"
+msgstr "فعال سازی تصویر عکس گرفته شده در صفحه نمایش شما"
+
+msgid "Exit"
+msgstr "خارج شدن"
+
+msgid "Format for screenshots :"
+msgstr "فرمت تصاویر"
+
+msgid "Grabbing Screenshot failed !!!"
+msgstr "گرفتن عکس ناموفق بود !!!"
+
+msgid "Path for screenshots :"
+msgstr "مسیر برای تصاویر"
+
+msgid "Picture size (width) :"
+msgstr "اندازه تصاویر"
+
+msgid "Quality of jpg picture :"
+msgstr "کیفیت تصاویر "
+
+msgid "Really close without saving settings?"
+msgstr "آیا واقعا بدون ذخیره سازی تنظیمات قصد بستن را دارید ؟"
+
+msgid "Reset ShootYourScreen settings to defaults?"
+msgstr "بازگرداندن به تصویر پیش فرض و حذف تصویر عکس گرفته شده"
+
+msgid "Save"
+msgstr "ذخیره سازی"
+
+msgid "Save with RECORD-Button"
+msgstr "Save with RECORD-Button"
+
+msgid "Screenshot of :"
+msgstr "تصاویری از :"
+
+msgid ""
+"Screenshot successfully saved as:\n"
+"%s"
+msgstr ""
+"Screenshot successfully saved as:\n"
+"%s"
+
+msgid "Select a button to take a screenshot :"
+msgstr "Select a button to take a screenshot :"
+
+msgid "ShootYourScreen for Enigma2 STB - %s"
+msgstr "ShootYourScreen for Enigma2 STB - %s"
+
+msgid "Show on screen :"
+msgstr "Show on screen :"
+
 msgid "Skin resolution"
 msgstr "رزولیشن پوسته ها"
 
-#: ../src/plugin.py:38
-msgid "no message"
-msgstr "بدون پیام"
-
-#: ../src/plugin.py:42
-#: ../src/plugin.py:43
-msgid "make Screenshots with your VU+"
-msgstr "ساخت تصاویر با استفاده از رسیور ویو پلاس"
-
-#: ../src/plugin.py:66
 msgid ""
 "Sorry, your device for screenshots is not writeable.\n"
 "\n"
 "Please choose another one."
 msgstr ""
+"Sorry, your device for screenshots is not writeable.\n"
+"\n"
+"Please choose another one."
 
-#: ../src/plugin.py:128
-#, python-format
-msgid ""
-"Screenshot successfully saved as:\n"
-"%s"
-msgstr ""
+msgid "Use the ' "
+msgstr "Use the ' "
 
-#: ../src/plugin.py:130
-msgid "Grabbing Screenshot failed !!!"
-msgstr "گرفتن عکس ناموفق بود !!!"
+msgid " ' button instead of ' "
+msgstr " ' button instead of ' "
 
-#: ../src/plugin.py:199
-msgid "Exit"
-msgstr "خارج شدن"
+msgid " long ' :"
+msgstr " long ' :"
 
-#: ../src/plugin.py:200
-msgid "Save"
-msgstr "ذخیره سازی"
+msgid "Only button ' "
+msgstr "Only button ' "
 
-#: ../src/plugin.py:201
-msgid "Default"
-msgstr "پیش فرض"
+msgid " long ' can be used."
+msgstr " long ' can be used."
 
-#: ../src/plugin.py:214
-#, python-format
-msgid "ShootYourScreen for VU+ STB - %s"
-msgstr ""
-
-#: ../src/plugin.py:218
-msgid "Enable ShootYourScreen :"
-msgstr "فعال سازی تصویر عکس گرفته شده در صفحه نمایش شما"
-
-#: ../src/plugin.py:220
-msgid "Screenshot of :"
-msgstr "تصاویری از :"
-
-#: ../src/plugin.py:221
-msgid "Format for screenshots :"
-msgstr "فرمت تصاویر"
-
-#: ../src/plugin.py:223
-msgid "Quality of jpg picture :"
-msgstr "کیفیت تصاویر "
-
-#: ../src/plugin.py:224
-msgid "Picture size (width) :"
-msgstr "اندازه تصاویر"
-
-#: ../src/plugin.py:225
-msgid "Path for screenshots :"
-msgstr "مسیر برای تصاویر"
-
-#: ../src/plugin.py:226
-msgid "Switch Help and Help long button :"
-msgstr "تغییر راهنما و نگاه داشتن طولانی دکمه راهنما "
-
-#: ../src/plugin.py:227
 msgid "Timeout for info message :"
 msgstr "اتمام زمان نمایش اطلاعات :"
 
-#: ../src/plugin.py:244
-msgid "Really close without saving settings?"
-msgstr "آیا واقعا بدون ذخیره سازی تنظیمات قصد بستن را دارید ؟"
+msgid "make Screenshots with your VU+"
+msgstr "ساخت تصاویر با استفاده از رسیور ویو پلاس"
 
-#: ../src/plugin.py:260
-msgid "Reset ShootYourScreen settings to defaults?"
-msgstr "بازگرداندن به تصویر پیش فرض و حذف تصویر عکس گرفته شده"
+msgid "no message"
+msgstr "بدون پیام"
 
+msgid "Red"
+msgstr "Red"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Yellow"
+msgstr "Yellow"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Mute"
+msgstr "Mute"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Tv"
+msgstr "Tv"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Timer"
+msgstr "Timer"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Version:"
+msgstr "Version:
