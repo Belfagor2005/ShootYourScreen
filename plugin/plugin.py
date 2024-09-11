@@ -87,6 +87,7 @@ def getMountedDevs():
     netDir = resolveFilename(SCOPE_MEDIA, 'net')
     if os.path.isdir(netDir):
         mountedDevs += [(os.path.join(netDir, p), _('Network mount')) for p in os.listdir(netDir)]
+    mountedDevs += [(os.path.join('/', 'tmp'), _('Tmp Folder'))]
     mountedDevs = list(map(handleMountpoint, mountedDevs))
     return mountedDevs
 
@@ -98,7 +99,7 @@ config.plugins.shootyourscreen.freezeframe = ConfigEnableDisable(default=False)
 config.plugins.shootyourscreen.allways_save = ConfigEnableDisable(default=False)
 config.plugins.shootyourscreen.switchhelp = ConfigYesNo(default=False)
 # config.plugins.shootyourscreen.path = ConfigSelection(default="/tmp", choices=[("/media/hdd"), ("/media/usb"), ("/media/hdd1"), ("/media/usb1"), ("/tmp", "/tmp")])
-config.plugins.shootyourscreen.path = ConfigSelection(default=getMountedDevs())
+config.plugins.shootyourscreen.path = ConfigSelection(choices=getMountedDevs())
 config.plugins.shootyourscreen.pictureformat = ConfigSelection(default="-j", choices=[("-j", "jpg"), ("-p", "png"), ("bmp", "bmp")])
 config.plugins.shootyourscreen.jpegquality = ConfigSelection(default="100", choices=[("10"), ("20"), ("40"), ("60"), ("80"), ("100")])
 config.plugins.shootyourscreen.picturetype = ConfigSelection(default="all", choices=[("all", "OSD + Video"), ("-v", "Video"), ("-o", "OSD")])
